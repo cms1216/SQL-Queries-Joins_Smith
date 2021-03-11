@@ -1,0 +1,134 @@
+Team_ID,Season,Affiliate League,Affiliate,League,Team Name,Classification,Category,Location_ID,City,State,County
+1960_AmericanAssociation_Indianapolis,1960,National,PHI,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1960_Midwest_Kokomo,1960,National,LAD,Midwest,Kokomo,D,MiLB,Kokomo_IN_US,Kokomo,IN,US
+1961_AmericanAssociation_Indianapolis,1961,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1961_Midwest_Kokomo,1961,National,LAD,Midwest,Kokomo,D,MiLB,Kokomo_IN_US,Kokomo,IN,US
+1962_AmericanAssociation_Indianapolis,1962,American,CWS,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1963_International_Indianapolis,1963,American,CWS,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1964_PacificCoast_Indianapolis,1964,American,CWS,Pacific Coast,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1965_PacificCoast_Indianapolis,1965,American,CWS,Pacific Coast,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1966_PacificCoast_Indianapolis,1966,American,CWS,Pacific Coast,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1966_Southern_Evansville,1966,American,CWS,Southern,Evansville,AA,MiLB,Evansville_IN_US,Evansville,IN,US
+1967_PacificCoast_Indianapolis,1967,American,CWS,Pacific Coast,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1967_Southern_Evansville,1967,American,CWS,Southern,Evansville,AA,MiLB,Evansville_IN_US,Evansville,IN,US
+1968_PacificCoast_Indianapolis,1968,National,CIN,Pacific Coast,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1968_Southern_Evansville,1968,American,CWS,Southern,Evansville,AA,MiLB,Evansville_IN_US,Evansville,IN,US
+1969_AmericanAssociation_Indianapolis,1969,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1970_AmericanAssociation_Evansville,1970,American,MIN,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1970_AmericanAssociation_Indianapolis,1970,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1971_AmericanAssociation_Evansville,1971,American,MIL,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1971_AmericanAssociation_Indianapolis,1971,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1972_AmericanAssociation_Evansville,1972,American,MIL,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1972_AmericanAssociation_Indianapolis,1972,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1973_AmericanAssociation_Evansville,1973,American,MIL,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1973_AmericanAssociation_Indianapolis,1973,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1974_AmericanAssociation_Evansville,1974,American,DET,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1974_AmericanAssociation_Indianapolis,1974,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1975_AmericanAssociation_Evansville,1975,American,DET,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1975_AmericanAssociation_Indianapolis,1975,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1976_AmericanAssociation_Evansville,1976,American,DET,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1976_AmericanAssociation_Indianapolis,1976,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1977_AmericanAssociation_Evansville,1977,American,DET,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1977_AmericanAssociation_Indianapolis,1977,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1978_AmericanAssociation_Evansville,1978,American,DET,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1978_AmericanAssociation_Indianapolis,1978,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1979_AmericanAssociation_Evansville,1979,American,DET,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1979_AmericanAssociation_Indianapolis,1979,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1980_AmericanAssociation_Evansville,1980,American,DET,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1980_AmericanAssociation_Indianapolis,1980,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1981_AmericanAssociation_Evansville,1981,American,DET,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1981_AmericanAssociation_Indianapolis,1981,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1982_AmericanAssociation_Evansville,1982,American,DET,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1982_AmericanAssociation_Indianapolis,1982,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1983_AmericanAssociation_Evansville,1983,American,DET,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1983_AmericanAssociation_Indianapolis,1983,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1984_AmericanAssociation_Evansville,1984,American,DET,American Association,Evansville,AAA,MiLB,Evansville_IN_US,Evansville,IN,US
+1984_AmericanAssociation_Indianapolis,1984,National,WSH,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1985_AmericanAssociation_Indianapolis,1985,National,WSH,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1986_AmericanAssociation_Indianapolis,1986,National,WSH,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1987_AmericanAssociation_Indianapolis,1987,National,WSH,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1988_AmericanAssociation_Indianapolis,1988,National,WSH,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1988_Midwest_SouthBend,1988,American,CWS,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+1989_AmericanAssociation_Indianapolis,1989,National,WSH,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1989_Midwest_SouthBend,1989,American,CWS,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+1990_AmericanAssociation_Indianapolis,1990,National,WSH,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1990_Midwest_SouthBend,1990,American,CWS,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+1991_AmericanAssociation_Indianapolis,1991,National,WSH,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1991_Midwest_SouthBend,1991,American,CWS,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+1992_AmericanAssociation_Indianapolis,1992,National,WSH,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1992_Midwest_SouthBend,1992,American,CWS,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+1993_AmericanAssociation_Indianapolis,1993,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1993_Midwest_FortWayne,1993,American,MIN,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+1993_Midwest_SouthBend,1993,American,CWS,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+1994_AmericanAssociation_Indianapolis,1994,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1994_Midwest_FortWayne,1994,American,MIN,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+1994_Midwest_SouthBend,1994,American,CWS,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+1995_AmericanAssociation_Indianapolis,1995,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1995_Midwest_FortWayne,1995,American,MIN,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+1995_Midwest_SouthBend,1995,American,CWS,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+1996_AmericanAssociation_Indianapolis,1996,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1996_Midwest_FortWayne,1996,American,MIN,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+1996_Midwest_SouthBend,1996,American,CWS,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+1997_AmericanAssociation_Indianapolis,1997,National,CIN,American Association,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1997_Midwest_FortWayne,1997,American,MIN,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+1997_Midwest_SouthBend,1997,,,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+1998_International_Indianapolis,1998,National,CIN,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1998_Midwest_FortWayne,1998,American,MIN,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+1998_Midwest_SouthBend,1998,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+1999_International_Indianapolis,1999,National,CIN,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+1999_Midwest_FortWayne,1999,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+1999_Midwest_SouthBend,1999,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2000_International_Indianapolis,2000,National,MIL,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2000_Midwest_FortWayne,2000,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2000_Midwest_SouthBend,2000,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2001_International_Indianapolis,2001,National,MIL,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2001_Midwest_FortWayne,2001,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2001_Midwest_SouthBend,2001,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2002_International_Indianapolis,2002,National,MIL,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2002_Midwest_FortWayne,2002,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2002_Midwest_SouthBend,2002,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2003_International_Indianapolis,2003,National,MIL,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2003_Midwest_FortWayne,2003,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2003_Midwest_SouthBend,2003,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2004_International_Indianapolis,2004,National,MIL,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2004_Midwest_FortWayne,2004,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2004_Midwest_SouthBend,2004,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2005_International_Indianapolis,2005,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2005_Midwest_FortWayne,2005,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2005_Midwest_SouthBend,2005,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2006_International_Indianapolis,2006,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2006_Midwest_FortWayne,2006,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2006_Midwest_SouthBend,2006,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2007_International_Indianapolis,2007,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2007_Midwest_FortWayne,2007,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2007_Midwest_SouthBend,2007,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2008_International_Indianapolis,2008,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2008_Midwest_FortWayne,2008,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2008_Midwest_SouthBend,2008,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2009_International_Indianapolis,2009,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2009_Midwest_FortWayne,2009,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2009_Midwest_SouthBend,2009,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2010_International_Indianapolis,2010,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2010_Midwest_FortWayne,2010,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2010_Midwest_SouthBend,2010,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2011_International_Indianapolis,2011,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2011_Midwest_FortWayne,2011,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2011_Midwest_SouthBend,2011,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2012_International_Indianapolis,2012,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2012_Midwest_FortWayne,2012,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2012_Midwest_SouthBend,2012,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2013_International_Indianapolis,2013,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2013_Midwest_FortWayne,2013,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2013_Midwest_SouthBend,2013,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2014_International_Indianapolis,2014,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2014_Midwest_FortWayne,2014,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2014_Midwest_SouthBend,2014,National,ARI,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2015_International_Indianapolis,2015,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2015_Midwest_FortWayne,2015,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2015_Midwest_SouthBend,2015,National,CHC,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2016_International_Indianapolis,2016,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2016_Midwest_FortWayne,2016,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2016_Midwest_SouthBend,2016,National,CHC,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
+2017_International_Indianapolis,2017,National,PIT,International,Indianapolis,AAA,MiLB,Indianapolis_IN_US,Indianapolis,IN,US
+2017_Midwest_FortWayne,2017,National,SD,Midwest,Fort Wayne,A,MiLB,FortWayne_IN_US,Fort Wayne,IN,US
+2017_Midwest_SouthBend,2017,National,CHC,Midwest,South Bend,A,MiLB,SouthBend_IN_US,South Bend,IN,US
